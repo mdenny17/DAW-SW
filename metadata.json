@@ -1,0 +1,7 @@
+{
+  "name": "Defense Acquisition SW Assistant",
+  "description": "A conversational AI voice assistant for the Defense Acquisition Workforce specializing in Software Engineering regulations, agile methodologies, and DevSecOps.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
